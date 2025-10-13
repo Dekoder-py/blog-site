@@ -31,11 +31,11 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		// Leave this array empty to use the default favicon
-		// {
-		//   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
+		 {
+		   src: '/favicon/icon.png',    // Path of the favicon, relative to the /public directory
 		//   theme: 'light',              // (Optional) Either 'light' or 'dark', set only if you have different favicons for light and dark mode
 		//   sizes: '32x32',              // (Optional) Size of the favicon, set only if you have favicons of different sizes
-		// }
+		 }
 	],
 };
 
@@ -48,6 +48,11 @@ export const navBarConfig: NavBarConfig = {
       name: "Source",
       url: "https://github.com/dekoder-py/blog-site",
       external: true,
+    },
+    {
+      name: "My Website",
+      url: "https://kyle-is-a.dino.icu",
+      external: true,
     }
 	],
 };
@@ -55,7 +60,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/PFP.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Kyle",
-	bio: "I go by Dekoder-py online. I'm a 15 year old programmer from New Zealand. Check out my website.",
+	bio: "I go by Dekoder-py online. I'm a 15 year old programmer from New Zealand.",
 	links: [
 		{
 			name: "My Website",
