@@ -8,7 +8,7 @@ category: "Coding"
 draft: false
 ---
 
-The summer was ours for the making. Now it's over.
+## The ~summer~ winter was ours for the making. Now it's over.
 
 Check out a summary of what I did [here](https://summer.hackclub.com/wrapped/share/CapUCZe).
 
