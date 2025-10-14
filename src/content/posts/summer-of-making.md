@@ -3,8 +3,8 @@ title: Summer of Making
 published: 2025-10-13
 description: "A reflection on Summer of Making 2025"
 image: "./assets/som-wrapped.png"
-tags: [Hack-club]
-category: "Coding"
+tags: [HackClub, YSWS]
+category: 'Coding'
 draft: false
 ---
 
