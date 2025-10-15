@@ -52,7 +52,7 @@ export const navBarConfig: NavBarConfig = {
 		{
 			name: "My Website",
 			url: "https://kyle-is-a.dino.icu",
-			external: true,
+			external: false,
 		},
 	],
 };
