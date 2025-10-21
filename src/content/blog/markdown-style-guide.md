@@ -4,7 +4,9 @@ description: 'Here is a sample of some basic Markdown syntax that can be used wh
 pubDate: 'Jun 19 2024'
 heroImage: '../../assets/blog-placeholder-1.jpg'
 ---
+#### Note: This is here for reference, it was here when I created the site I did not write it.
 
+---
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 
 ## Headings
