@@ -2,7 +2,7 @@
 title: My Dotfiles
 pubDate: "2025-10-17"
 description: "A short post about my configs"
-heroImage: "./assets/dotfiles.png"
+heroImage: "./assets/dotfiles.svg"
 ---
 
 I have two main repos when it comes to configs for my terminal and CLI tools.
