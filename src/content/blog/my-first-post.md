@@ -2,6 +2,7 @@
 title: My First Blog Post
 pubDate: 2025-10-13
 description: This is the first post of my blog! Welcome!
+heroImage: "./assets/first-post.svg"
 ---
 
 Hi! Welcome to my blog. This is my first entry.
