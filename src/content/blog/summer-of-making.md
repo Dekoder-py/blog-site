@@ -2,7 +2,7 @@
 title: Summer of Making
 pubDate: 2025-10-13
 description: "A reflection on Summer of Making 2025"
-heroImage: "./assets/som-wrapped.png"
+heroImage: "../../assets/som-wrapped.png"
 ---
 
 ### The ~summer~ winter was ours for the making. Now it's over.

@@ -2,7 +2,7 @@
 title: Daydream
 pubDate: "Oct 14 2025"
 description: "A reflection on my experience at Daydream"
-heroImage: "./assets/daydream.svg"
+heroImage: "../../assets/grad-blue-green.jpg"
 ---
 
 ### Daydream - A Global Game Jam
