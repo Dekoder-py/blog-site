@@ -9,7 +9,7 @@ function getDate() {
   const month = String(today.getMonth() + 1).padStart(2, "0")
   const day = String(today.getDate()).padStart(2, "0")
 
-  return `${year}-${month}-${day}`
+  return `"${year}-${month}-${day}"`
 }
 
 const args = process.argv.slice(2)
@@ -45,9 +45,9 @@ if (!fs.existsSync(dirPath)) {
 const content = `---
 title: ${args[0]}
 pubDate: ${getDate()}
-updatedDate: ''
-description: ''
-image: ''
+updatedDate: ""
+description: ""
+image: ""
 ---
 `
 
