@@ -1,6 +1,6 @@
 ---
 title: My First Blog Post
-pubDate: 2025-10-13
+pubDate: '2025-10-13  17:11'
 description: This is the first post of my blog! Welcome!
 heroImage: "../../assets/blog-placeholder-about.jpg"
 ---
