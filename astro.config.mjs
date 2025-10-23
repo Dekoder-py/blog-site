@@ -8,7 +8,7 @@ import vercel from "@astrojs/vercel";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://kyle-is-a.dino.icu",
+  site: "https://blog.codingcorner.dev",
   integrations: [mdx(), sitemap()],
   adapter: vercel({
     webAnalytics: {
