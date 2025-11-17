@@ -10,7 +10,7 @@
     "new-post": "node ./scripts/new-post.js"
   },
   "dependencies": {
-    "@astrojs/mdx": "^4.3.10",
+    "@astrojs/mdx": "^4.3.11",
     "@astrojs/rss": "^4.0.13",
     "@astrojs/sitemap": "^3.6.0",
     "@astrojs/vercel": "^9.0.0",
