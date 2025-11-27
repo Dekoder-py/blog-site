@@ -5,7 +5,7 @@ description: "Nix and nix-darwin!"
 heroImage: "../../assets/nix.png"
 ---
 
-### Nix Darwin
+### Nix and nix-darwin
 
 I use Nix and nix-darwin on my MacBook Pro.
 Nix is a package manager, language, and a great way to declaratively configure your system and packages.
