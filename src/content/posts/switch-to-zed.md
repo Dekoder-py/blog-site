@@ -1,9 +1,16 @@
 ---
-title: Switching to Zed
+title: Zed - An Experiement
 pubDate: "2026-01-11 16:02"
+updatedDate: "2026-01-18 21:00"
 description: ""
 heroImage: "../../assets/zed.jpeg"
 ---
+
+# Update: 18 Jan
+
+I have returned to neovim. Zed is great but I still love the cli more than using a gui.
+
+# OUTDATE: Original Post
 
 *"What? You don't use neovim anymore?"*
 
